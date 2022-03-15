@@ -1,3 +1,6 @@
 [submodule "freepay-1"]
 	path = freepay-1
 	url = https://github.com/sachinjadhav7/freepay-1.git
+[submodule "submodule/sj"]
+	path = submodule/sj
+	url = https://github.com/sachinjadhav7/sj.git
