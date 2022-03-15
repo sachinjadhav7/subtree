@@ -4,3 +4,6 @@
 [submodule "submodule/sj"]
 	path = submodule/sj
 	url = https://github.com/sachinjadhav7/sj.git
+[submodule "submodule/s3/sj"]
+	path = submodule/s3/sj
+	url = https://github.com/sachinjadhav7/sj.git
